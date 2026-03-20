@@ -1,30 +1,19 @@
 # Ivan Golovach
 
-Software systems builder focused on AI-native development and developer infrastructure.
+I build AI-native software systems, developer tooling, and reliable automation.
 
-I work on architectures that keep complex software systems understandable, traceable, and reliable as they grow in scale and autonomy.
+My work focuses on making complex software more understandable, observable, and dependable as autonomy increases. I’m especially interested in long-running workflows, deterministic tooling, decision-support systems, and practical infrastructure for AI-native products.
 
-### Current Focus
+## Current focus
 
-- AI-native software architectures  
-- developer tooling and CLI infrastructure  
-- deterministic and observable systems  
-- decision-support and research-driven software  
-- long-running and distributed systems
+- AI-native software systems
+- developer tooling and CLI infrastructure
+- long-running and distributed workflows
+- observability, determinism, and operational clarity
 
-### Technical Interests
+## Engineering principles
 
-- systems architecture  
-- developer infrastructure  
-- Rust / Python tooling  
-- distributed systems  
-- reproducible and deterministic software
-
-### Engineering Approach
-
-I prefer systems that emphasize:
-
-- transparency over hidden automation  
-- deterministic behavior over implicit state  
-- observability over abstraction layers  
+- clarity over cleverness
+- deterministic behavior over hidden state
+- observability over opaque abstraction
 - long-term reliability over short-term convenience
