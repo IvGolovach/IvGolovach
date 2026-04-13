@@ -4,6 +4,12 @@ I build AI-native software systems, developer tooling, and reliable automation.
 
 My work focuses on making complex software more understandable, observable, and dependable as autonomy increases. I’m especially interested in long-running workflows, deterministic tooling, decision-support systems, and practical infrastructure for AI-native products.
 
+## Contact
+
+- Email: ivan@citrusgate.com  
+- Website: https://citrusgate.com  
+- X: https://twitter.com/Ivan_IntoAGI
+
 ## Current focus
 
 - AI-native software systems
