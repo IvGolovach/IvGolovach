@@ -1,10 +1,10 @@
 # Ivan Golovach
 
-I build AI-native systems focused on reliability, determinism, and long-running workflows.
+Building CitrusGate and Grain.
 
-Currently building CitrusGate.
+I build AI-native systems for verifiable workflows, portable records, and reliable automation.
 
-I work on making complex software observable and predictable as autonomy increases — from developer tooling to infrastructure for AI-native products.
+Current work spans deterministic pipelines, evidence-backed data products, observability, and developer tooling for autonomous software.
 
 ## Contact
 
@@ -12,10 +12,11 @@ Email: ivan@citrusgate.com · Website: citrusgate.com · X: @Ivan_IntoAGI
 
 ## Current focus
 
-- AI-native software systems
-- developer tooling and CLI infrastructure
-- long-running and distributed workflows
-- observability, determinism, and operational clarity
+- AI-native infrastructure
+- verifiable records and portable data
+- deterministic pipelines and long-running automation
+- observability and operational clarity
+- developer tooling for autonomous systems
 
 ## Engineering principles
 
