@@ -14,7 +14,7 @@ Solo operator shipping full-stack product work across web, iOS, and backend with
 
 Previously: [CitrusGate](https://citrusgate.com), fixed-price research briefs diagnosing why a live B2B deal is stuck, and Citrus CRM, a private CRM for automated cold-email outreach — both paused while I focus on MealMark and Grain.
 
-Side experiment: [interstellar-archive](https://github.com/IvGolovach/interstellar-archive), reproducible research tooling.
+Side experiment: [interstellar-archive](https://github.com/IvGolovach/interstellar-archive), Reproducible research artifact for the Interstellar Archive mission feasibility model.
 
 Open source: maintainer of [mesh-llm](https://github.com/Mesh-LLM/mesh-llm/pulls?q=is%3Apr+is%3Amerged+author%3AIvGolovach) and [tokscale](https://github.com/junhoyeo/tokscale/pulls?q=is%3Apr+is%3Amerged+author%3AIvGolovach).
 
