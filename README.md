@@ -20,7 +20,7 @@ Open source: maintainer of [mesh-llm](https://github.com/Mesh-LLM/mesh-llm/pulls
 
 ## Stack
 
-TypeScript/React, Swift, Python, Rust · Cloudflare Workers/Pages · 
+TypeScript/React, Swift, Python, Rust · Cloudflare Workers/Pages 
 
 ## Contact
 
