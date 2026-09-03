@@ -18,5 +18,5 @@ I build Radish, MealMark, and Grain, and maintain mesh-llm and tokscale.
 - [Interstellar Archive](https://github.com/IvGolovach/interstellar-archive) — reproducible modeling for a deep-time archive mission.
 
 <p align="right">
-  <a href="https://x.com/Ivan_IntoAGI">X</a>
+  <a href="https://x.com/Ivan_IntoAGI">Twitter</a>
 </p>
