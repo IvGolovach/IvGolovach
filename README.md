@@ -1,6 +1,6 @@
 # Ivan Golovach
 
-I build Radish and MealMark, maintain mesh-llm and tokscale, and develop open record infrastructure through Grain.
+I build Radish, MealMark, and Grain, and maintain mesh-llm and tokscale.
 
 ## Building
 
@@ -17,4 +17,6 @@ I build Radish and MealMark, maintain mesh-llm and tokscale, and develop open re
 
 - [Interstellar Archive](https://github.com/IvGolovach/interstellar-archive) — reproducible modeling for a deep-time archive mission.
 
-[ivan.ge](https://ivan.ge) · [X](https://x.com/Ivan_IntoAGI)
+<p align="right">
+  <a href="https://x.com/Ivan_IntoAGI">X</a>
+</p>
