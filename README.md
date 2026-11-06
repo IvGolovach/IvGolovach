@@ -1,6 +1,6 @@
 ## Focus
 
-[CitrusGate](https://citrusgate.com) — independent web development studio.
+- [CitrusGate](https://citrusgate.com) — independent web development studio.
 
 ## Products
 
