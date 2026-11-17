@@ -2,6 +2,10 @@
 
 - [CitrusGate](https://citrusgate.com) — independent web development studio.
 
+## Hackathon
+
+- [YetiShot](https://yetishot.com/) — copy a screenshot of any Mac window without leaving your coding agent.
+
 ## Products
 
 - [Radish](https://www.radish.money) — grocery receipt intelligence for households.
